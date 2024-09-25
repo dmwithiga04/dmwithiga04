@@ -1,6 +1,6 @@
 # 🌍 Hello! I'm Davine Mungai
 
-## Passionate First-Year Computer Science and Sociology Major at Pacific Lutheran University 🖥️🤝
+## Passionate Computer Science and Sociology Student at Pacific Lutheran University 🖥️🤝
 
 ### About Me
 I am committed to merging technology and social impact, striving for a career that blends my technical skills with sociological perspectives. I'm excited to learn, grow, and contribute to building a better society through innovative solutions. 🚀
