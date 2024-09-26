@@ -32,5 +32,6 @@ I’m always looking for opportunities to network and collaborate with like-mind
 - **🌐 Personal Website:** Currently building a personal site using Next.js and React to showcase my projects and experiences.
 - **🎨 Flood Fill Algorithm:** Developed a custom Flood Fill algorithm in Java for efficient image processing, utilizing a Queue data structure.
 - **📊 Matrix Class:** Implemented a Matrix class in Java, focusing on matrix operations and manipulations.
+- **💰📊 Billionaires Dataset Analysis:** Analyzed and visualized the demographics and wealth distribution of global billionaires using Python, JupyterLab, and data visualization libraries, uncovering key insights into this unique     population.
 
 Feel free to explore my repositories, and don’t hesitate to reach out! 😊
