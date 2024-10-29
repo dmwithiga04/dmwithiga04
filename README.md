@@ -13,7 +13,6 @@ I am committed to merging technology and social impact, striving for a career th
 ### 🌐 Let's Connect!
 - **📧 Email:** [dmwithiga04@gmail.com](mailto:dmwithiga04@gmail.com)
 - **🔗 LinkedIn:** [linkedin.com/in/davine-mungai](https://www.linkedin.com/in/davine-mungai/)
-- **🐙 GitHub:** [github.com/dmwithiga04](https://github.com/dmwithiga04)
 
 ### 🤝 Open to Collaborations
 I’m always looking for opportunities to network and collaborate with like-minded individuals who are passionate about the intersection of technology and social change. Let’s work together to make a difference! 🤝
